@@ -1,0 +1,62 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+      
+      
+}
+header{
+    background-color: #000000;
+}
+
+/* se pone punto . cuando es un class */
+.nav-item a{
+    color: #3392FF;
+}
+.fs-4 {
+    color: #3392FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bi-book-half {
+    color: #a31534
+}
+/* se pone el # cuando se liga con un id*/
+#sobremi {
+    background-color: #a31534;
+}
+.nav-item a:hover {
+    background-color: #1f2627;
+}
+#app {
+    background-color: #000000;
+    color: #3392FF;
+    
+}
+.btn {
+    color: #a31534;
+}
+.pb-2 {
+    background-color: #000000;
+    color: #3392FF;
+}
+.btn-proyecto {
+    background-color: #f397ae;
+    font-optical-sizing: auto;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+}
+header a{
+    color: aqua;
+}
+#contacto {
+    background-color: #baeaf8b6;
+    color: #1e15a3;
+}
+
+footer li a{
+    color: #f397ae;
+}
+.creado {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
