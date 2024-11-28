@@ -21,7 +21,7 @@ ____
   
 ## Vista previa ##
 
-![Proyecto](assets/portafolio1.png)
+![Proyecto](/Portafolio%20de%20Proyectos/assets/Portafolio1.PNG)
 
 
 ### (/ =ω=)/ Bienvenidos \(=ω= \) ###
