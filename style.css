@@ -11,6 +11,17 @@ header{
 .nav-item a{
     color: #3392FF;
 }
+
+.habilidades {
+    background-color: #494848;
+    margin-top: 50px;
+    padding: 10px;
+    width: 350;
+    margin-left: 70px;
+    margin-right: 70px;
+    color: rgb(212, 168, 216);
+
+}
 .fs-4 {
     color: #3392FF;
     font-family: Arial, Helvetica, sans-serif;
@@ -31,7 +42,7 @@ header{
     
 }
 .btn {
-    color: #a31534;
+    color: #3392FF;
 }
 .pb-2 {
     background-color: #000000;
@@ -49,8 +60,11 @@ header a{
     color: aqua;
 }
 #contacto {
-    background-color: #baeaf8b6;
-    color: #1e15a3;
+    background-color: #494848;
+    color:  rgb(212, 168, 216);
+}
+#sobre {
+    background-color: #a31534;;
 }
 
 footer li a{
@@ -59,4 +73,8 @@ footer li a{
 .creado {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
+}
+#saber {
+    color: #1a565f;
+    font-weight: bold;
 }
